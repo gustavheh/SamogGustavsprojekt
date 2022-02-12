@@ -1,8 +1,14 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite2",
+    "path": "sprites/Sprite2/Sprite2.yy",
+  },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Sprite2",
+    "path": "sprites/Sprite2/Sprite2.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -25,7 +31,7 @@
     "path": "SamogGustavsprojekt.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "Player",
   "tags": [],
   "resourceType": "GMObject",
 }
