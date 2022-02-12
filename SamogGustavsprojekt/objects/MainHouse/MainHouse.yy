@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite4",
+    "path": "sprites/Sprite4/Sprite4.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -25,7 +28,7 @@
     "path": "SamogGustavsprojekt.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "MainHouse",
   "tags": [],
   "resourceType": "GMObject",
 }
